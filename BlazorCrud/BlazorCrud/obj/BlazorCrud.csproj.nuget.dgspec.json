@@ -33,7 +33,11 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Sundram\\source\\repos\\SPS_Blazor\\BlazorCrud\\StudentManagement.Modals\\StudentManagement.Modals.csproj": {
+                "projectPath": "C:\\Users\\Sundram\\source\\repos\\SPS_Blazor\\BlazorCrud\\StudentManagement.Modals\\StudentManagement.Modals.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -65,6 +69,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Sundram\\source\\repos\\SPS_Blazor\\BlazorCrud\\StudentManagement.Modals\\StudentManagement.Modals.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sundram\\source\\repos\\SPS_Blazor\\BlazorCrud\\StudentManagement.Modals\\StudentManagement.Modals.csproj",
+        "projectName": "StudentManagement.Modals",
+        "projectPath": "C:\\Users\\Sundram\\source\\repos\\SPS_Blazor\\BlazorCrud\\StudentManagement.Modals\\StudentManagement.Modals.csproj",
+        "frameworks": {
+          "net46": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net46": {}
       }
     }
   }

@@ -1,0 +1,40 @@
+﻿@page  "/"
+@inherits StudentListBase
+
+<h3>Student List</h3>
+@if(Students == null)
+{
+<div class="spinner"></div>
+}
+else
+{
+<table class="table">
+    <thead>
+        <tr>
+            <th>Roll No</th>
+            <th>Name</th>
+            <th>College</th>
+            <th>Gender</th>
+            <th>Department</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+   
+    @foreach (var Data in Students)
+    {
+
+        <tr>
+            <td>@Data.RollNo</td>
+            <td>@Data.Name</td>
+            <td>@Data.College</td>
+            <td>@Data.Gender</td>
+            <td>@Data.Department</td>
+            <td>
+                <a href="#" class="btn btn-primary m-1">view</a>|
+                <a href="#" class="btn btn-primary m-1">Update</a>|
+                <a href="#" class="btn btn-danger m-1">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+}

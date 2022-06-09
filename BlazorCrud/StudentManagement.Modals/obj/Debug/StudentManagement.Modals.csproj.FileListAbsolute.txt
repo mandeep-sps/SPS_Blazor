@@ -1,0 +1,6 @@
+C:\Users\Sundram\source\repos\SPS_Blazor\BlazorCrud\StudentManagement.Modals\bin\Debug\StudentManagement.Modals.dll
+C:\Users\Sundram\source\repos\SPS_Blazor\BlazorCrud\StudentManagement.Modals\bin\Debug\StudentManagement.Modals.pdb
+C:\Users\Sundram\source\repos\SPS_Blazor\BlazorCrud\StudentManagement.Modals\obj\Debug\StudentManagement.Modals.csproj.AssemblyReference.cache
+C:\Users\Sundram\source\repos\SPS_Blazor\BlazorCrud\StudentManagement.Modals\obj\Debug\StudentManagement.Modals.csproj.CoreCompileInputs.cache
+C:\Users\Sundram\source\repos\SPS_Blazor\BlazorCrud\StudentManagement.Modals\obj\Debug\StudentManagement.Modals.dll
+C:\Users\Sundram\source\repos\SPS_Blazor\BlazorCrud\StudentManagement.Modals\obj\Debug\StudentManagement.Modals.pdb
